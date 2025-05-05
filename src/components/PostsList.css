@@ -1,0 +1,40 @@
+.posts-list {
+  padding: 20px;
+}
+
+.search-input {
+  margin-bottom: 15px;
+  padding: 8px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.posts-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.posts-table th, .posts-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.posts-table th {
+  background-color: #f1f1f1;
+}
+
+.view-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.view-link:hover {
+  text-decoration: underline;
+}
+
+.error {
+  color: red;
+}
